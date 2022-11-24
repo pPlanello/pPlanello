@@ -11,13 +11,13 @@ Now a days I am Full Stack Developer
 <div style="display: table">
   <div style="diplay: table-cell">
     <span style="diplay: table-cell">
-      <img src="https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2021/11/03/115/gmvpng.png?itok=NUWQSqne" title="BBVA IT" alt="BBVA IT" width="107" height="80">
+      <img src="https://github.com/pPlanello/pPlanello/blob/master/works/bbvait.png" title="BBVA IT" alt="BBVA IT" width="80" height="80">
     </span>
-    <span><strong>GMV</strong> 2022-At moment</span>
+    <span><strong>BBVA IT</strong> 2022-At moment</span>
   </div>
   <div style="diplay: table-cell">
     <span style="diplay: table-cell">
-      <img src="https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2021/11/03/115/gmvpng.png?itok=NUWQSqne" title="GMV" alt="GMV" width="107" height="80">
+      <img src="https://github.com/pPlanello/pPlanello/blob/master/works/gmv.jpg" title="GMV" alt="GMV" width="107" height="80">
     </span>
     <span><strong>GMV</strong> 2019-2022</span>
   </div>
