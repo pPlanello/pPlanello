@@ -6,6 +6,14 @@ Now a days I am Full Stack Developer
 
 ---
 
+### :office: Companies worked:
+
+<div>
+  <img src="https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2021/11/03/115/gmvpng.png?itok=NUWQSqne" title="GMV" alt="GMV" width="107" height="80">&nbsp;
+</div>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 ##### Backend
 <div>
