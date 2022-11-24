@@ -8,8 +8,19 @@ Now a days I am Full Stack Developer
 
 ### :office: Companies worked:
 
-<div>
-  <img src="https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2021/11/03/115/gmvpng.png?itok=NUWQSqne" title="GMV" alt="GMV" width="107" height="80">&nbsp;
+<div style="display: table">
+  <div style="diplay: table-cell">
+    <span style="diplay: table-cell">
+      <img src="https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2021/11/03/115/gmvpng.png?itok=NUWQSqne" title="BBVA IT" alt="BBVA IT" width="107" height="80">
+    </span>
+    <span><strong>GMV</strong> 2019-2022</span>
+  </div>
+  <div style="diplay: table-cell">
+    <span style="diplay: table-cell">
+      <img src="https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2021/11/03/115/gmvpng.png?itok=NUWQSqne" title="BBVA IT" alt="BBVA IT" width="107" height="80">
+    </span>
+    <span><strong>GMV</strong> 2019-2022</span>
+  </div>
 </div>
 
 ---
