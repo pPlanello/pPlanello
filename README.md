@@ -8,19 +8,9 @@ Now a days I am Full Stack Developer
 
 ### :office: Companies worked:
 
-<div style="display: table">
-  <div style="diplay: table-cell">
-    <span style="diplay: table-cell">
-      <img src="https://github.com/pPlanello/pPlanello/blob/master/works/bbvait.png" title="BBVA IT" alt="BBVA IT" width="80" height="80">
-    </span>
-    <span><strong>BBVA IT</strong> 2022-At moment</span>
-  </div>
-  <div style="diplay: table-cell">
-    <span style="diplay: table-cell">
-      <img src="https://github.com/pPlanello/pPlanello/blob/master/works/gmv.jpg" title="GMV" alt="GMV" width="80" height="80">
-    </span>
-    <span><strong>GMV</strong> 2019-2022</span>
-  </div>
+<div>
+  <img src="https://github.com/pPlanello/pPlanello/blob/master/works/bbvait.png" title="BBVA IT" alt="BBVA IT" width="70" height="70">
+  <img src="https://github.com/pPlanello/pPlanello/blob/master/works/gmv.jpg" title="GMV" alt="GMV" width="70" height="70">
 </div>
 
 ---
