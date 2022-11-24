@@ -2,7 +2,7 @@
 
 I am a Telecommunications Engineer at UPM since 2020. In 2021 I did my master's degree in Network Engineering and Telematic Services at UPM.
 Now a days I am Full Stack Developer
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo_Planello_San_Segundo-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/pablo-planell%C3%B3-san-segundo-upm)
+[![LinkedIn](https://img.shields.io/badge/-Pablo_Planello_San_Segundo-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/pablo-planell%C3%B3-san-segundo-upm)
 
 ---
 
