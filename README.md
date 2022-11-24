@@ -17,7 +17,7 @@ Now a days I am Full Stack Developer
   </div>
   <div style="diplay: table-cell">
     <span style="diplay: table-cell">
-      <img src="https://github.com/pPlanello/pPlanello/blob/master/works/gmv.jpg" title="GMV" alt="GMV" width="107" height="80">
+      <img src="https://github.com/pPlanello/pPlanello/blob/master/works/gmv.jpg" title="GMV" alt="GMV" width="80" height="80">
     </span>
     <span><strong>GMV</strong> 2019-2022</span>
   </div>
