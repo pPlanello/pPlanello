@@ -8,7 +8,7 @@ Now a days I am Full Stack Developer
 
 ### :office: Companies worked:
 
-<div>
+<div align="center">
   <img src="https://github.com/pPlanello/pPlanello/blob/master/works/bbvait.png" title="BBVA IT" alt="BBVA IT" width="50" height="50">
   <img src="https://github.com/pPlanello/pPlanello/blob/master/works/gmv.jpg" title="GMV" alt="GMV" width="50" height="50">
 </div>
