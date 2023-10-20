@@ -42,3 +42,7 @@ Now a days I am Full Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="60" height="60">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="60" height="60">&nbsp;
 </div>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pPlanello&layout=compact&hide_progress=true)
